@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "username": "johndoe",
+            "password": "secret123",
+            "accountNumber": "1001",
+            "balance": 1000.0,
+            "transactions": [
+                { "type": "deposit", "amount": 500.0, "date": "2024-01-01" },
+                { "type": "withdraw", "amount": 100.0, "date": "2024-01-05" }
+            ]
+        },
+        {
+            "username": "janedoe",
+            "password": "pass456",
+            "accountNumber": "1002",
+            "balance": 2500.0,
+            "transactions": []
+        }
+    ],
+    "admin": {"username":"admin","password":"admin"}
+}
