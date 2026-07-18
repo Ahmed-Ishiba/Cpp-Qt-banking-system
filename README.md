@@ -1,8 +1,7 @@
 # Cpp-Qt-banking-system
 
-ofcourse I will say that I need to document it and will document it
-but let's be real we both know how boring that is
-
+of course I will say that I need to document it and will document it
+but let's be real we both know that is not gonna happen
 
 however these are the features:  
 - client application is GUI using Qt quick
